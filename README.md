@@ -1,6 +1,7 @@
 # halal-registry-optimization-for-windows
 ### This is a registry optimization pack made by me that can improve your Windows performance.
 Please make a *restore point* and *take ownership* of `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\BackgroundModel\BackgroundAudioPolicy before applying.`
+
 -**Here is a list of tweaks I have done:**
 Improves shutdown speed (Does not allow Windows to clean page file at shutdown, app and service timeout has been decreased)
 Disables the delay when launching apps on start-up
