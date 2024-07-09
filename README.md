@@ -1,3 +1,7 @@
+# ⚠️ Warning
+**This repository is no longer maintained. The tweaks provided here are for old versions of Windows and may not work correctly on newer versions. Use at your own risk.**
+
+
 # halal-registry-optimization-for-windows
 ### This is a registry optimization pack made by me that can improve your Windows performance.
 Please make a *restore point* and *take ownership* of `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\BackgroundModel\BackgroundAudioPolicy before applying.`
